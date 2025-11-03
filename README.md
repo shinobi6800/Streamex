@@ -209,7 +209,6 @@ npx node-gyp rebuild --target=$(node -v)
 ---
 
 ## 📜 License
-
 MIT © 2025 **Miranda Nigel**
 
 
