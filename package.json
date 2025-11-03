@@ -1,0 +1,15 @@
+{
+  "name": "streamex",
+  "version": "1.0.0",
+  "description": "High-performance C++ streaming addon for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp configure build",
+    "test": "node test/test_server.js"
+  },
+  "dependencies": {
+    "node-addon-api": "^7.0.0",
+    "node-gyp-build": "^4.7.0"
+  },
+  "gypfile": true
+}
